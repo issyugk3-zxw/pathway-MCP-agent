@@ -151,23 +151,4 @@ Top 5 terms:
 - [Enrichr](https://maayanlab.cloud/Enrichr/) - Ma'ayan Lab
 - [STRING-db](https://string-db.org/) - Protein-Protein Interaction Database
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Citation
-
-If you use this tool in your research, please cite:
-
-```bibtex
-@software{pathway_mcp_agent,
-  title = {Pathway MCP Agent},
-  author = {Your Name},
-  year = {2026},
-  url = {https://github.com/YOUR_USERNAME/pathway-mcp-agent}
-}
 ```
